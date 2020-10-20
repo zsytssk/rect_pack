@@ -1,0 +1,8 @@
+name: rect_pack
+description: rect pack for dart.
+version: 0.0.1
+author: zsytssk
+homepage: https://github.com/zsytssk/rect_pack
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
