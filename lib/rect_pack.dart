@@ -38,6 +38,8 @@ class OutputItem<T> {
     this.height,
     this.item,
   });
+  @override
+  String toString() => 'x=$x, y=$y, width=$width, height=$height';
 }
 
 Result<T> rectPack<T>(List<InputItem<T>> items) {

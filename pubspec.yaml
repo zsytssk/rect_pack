@@ -6,3 +6,8 @@ homepage: https://github.com/zsytssk/rect_pack
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
+
+dev_dependencies:
+  test: ^1.15.4
+  flutter_test:
+    sdk: flutter
